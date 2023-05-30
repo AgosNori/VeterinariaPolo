@@ -1,0 +1,45 @@
+header{
+    background-color: black;
+}
+.nav .nav-item .nav-link{
+    color: white;
+}
+.img2{
+    height:680px ;
+    margin-top: 10px;
+}
+
+/* tarjetas */
+.tarjeta2{
+    margin-left: 40%;
+    margin-top: -30%;
+}
+.tarjetas h3{
+    color: slategray;
+    text-align: center;
+    margin-top: 20px;
+}
+.tarjeta1{
+    margin-left: 10%;
+    margin-top: 20px;
+}
+.tarjeta2{
+    margin-top: -32.6%;
+    margin-left: 40%;
+}
+.tarjeta3{
+    margin-top: -32.6%;
+    margin-left: 70%;
+}
+.tarjeta4{
+    margin-top: 40px;
+    margin-left: 10%;
+}
+.tarjeta5{
+    margin-top: -32.6%;
+    margin-left:40% ;
+}
+.tarjeta6{
+    margin-top: -32.6%;
+    margin-left: 70%;
+}
